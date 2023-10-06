@@ -1,19 +1,19 @@
 # Hello, world! 👋🌍
 
-My name is [你的名字], and I'm a [哪个的专业学生]!
+My name is [龙保全], and I'm a [通信工程的学生]!
 
 Here's a bit about me:
 
-- 👩‍💻 I'm currently working on: [What you're working on]
-- 🌱 I'm currently learning: [What you're learning]
-- 💡 I'm interested in: [Your interests]
-- 💬 Ask me about: [What you're proficient in]
-- 📫 How to reach me: [Your Contact Information]
+- 👩‍💻 I'm currently working on: [c++]
+- 🌱 I'm currently learning: [c++]
+- 💡 I'm interested in: [games]
+- 💬 Ask me about: [王者荣耀]
+- 📫 How to reach me: [Likecoffee4ever]
 
 ## 👷 My GitHub account is:
 
 [你想展示的文字](个人账号链接）
-如：[这是 b 站官网]+(https://www.bilibili.com/)
+如：[qq]（1272755489）
 
 ## 📖 What I'm currently learning...
 
